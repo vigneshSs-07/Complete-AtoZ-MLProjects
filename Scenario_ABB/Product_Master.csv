@@ -1,0 +1,63 @@
+Sub_category,Brand,Size_in_alphabet,Us_size,Bust,Waist,Neckline,Arm_length
+Tops & Blouses,H&M,3XS-XXS,0,30,23.5,13.5,23.25
+Tops & Blouses,H&M,3XS-XXS,1,30.75,24.25,13.75,23.38
+Tops & Blouses,H&M,XS,2,31.5,25,14,23.5
+Tops & Blouses,H&M,XS,3,32.25,25.63,14,23.5
+Tops & Blouses,H&M,S,4,33,26.25,14,23.5
+Tops & Blouses,H&M,S,5,33.75,27.13,14.25,23.5
+Tops & Blouses,H&M,S,6,34.5,28,14.5,23.5
+Tops & Blouses,H&M,S,7,35.38,29,14.75,23.63
+Tops & Blouses,H&M,M,8,36.25,30,15,23.75
+Tops & Blouses,H&M,M,9,36.85,30.75,15.13,23.75
+Tops & Blouses,H&M,M,10,37.45,31.5,15.25,23.75
+Tops & Blouses,H&M,M,11,38.48,32.5,15.5,23.75
+Tops & Blouses,H&M,L,12,39.5,33.5,15.75,23.75
+Tops & Blouses,H&M,L,13,40.25,34.5,15.88,23.88
+Tops & Blouses,H&M,L,14,41,35.5,16,24
+Tops & Blouses,H&M,L,15,42.25,36.63,16.25,24
+Tops & Blouses,H&M,XL,16,43.5,37.75,16.5,24
+Tops & Blouses,H&M,XL,17,44.5,39,16.75,24
+Tops & Blouses,H&M,XL,18,45.5,40.25,17,24
+Tops & Blouses,H&M,XL,19,46.75,41.38,17.13,24
+Tops & Blouses,H&M,2XL,20,48,42.5,17.25,24
+Tops & Blouses,H&M,2XL,21,49.25,43.63,17.5,24.13
+Tops & Blouses,H&M,2XL,22,50.5,44.75,17.75,24.25
+Tops & Blouses,H&M,2XL,23,51.63,46.13,17.88,24.25
+Tops & Blouses,H&M,3XL*,24,52.75,47.5,18,24.25
+Tops & Blouses,H&M,3XL*,25,53.88,69,18.25,24.38
+Tops & Blouses,H&M,3XL*,26,55,90.5,18.5,24.5
+Tops & Blouses,H&M,3XL*,27,56.25,71.88,18.63,24.5
+Tops & Blouses,H&M,4XL*,28,57.5,53.25,18.75,24.5
+Tops & Blouses,H&M,4XL*,29,58.63,54.5,18.88,24.5
+Tops & Blouses,H&M,4XL*,30,59.75,55.75,19,24.5
+Dresses,H&M,3XS-XXS,0,30,23.5,23.5,23.25
+Dresses,H&M,3XS-XXS,1,30.75,24.25,18.75,23.25
+Dresses,H&M,XS,2,31.5,25,14,23.25
+Dresses,H&M,XS,3,32.25,25.88,14,23.38
+Dresses,H&M,S,4,33,26.75,14,23.5
+Dresses,H&M,S,5,33.75,27.63,14.25,23.5
+Dresses,H&M,S,6,34.5,28.5,14.5,23.5
+Dresses,H&M,S,7,35.38,29.25,14.75,23.5
+Dresses,H&M,M,8,36.25,30,15,23.5
+Dresses,H&M,M,9,37,30.75,15.13,23.63
+Dresses,H&M,M,10,37.75,31.5,15.25,23.75
+Dresses,H&M,M,11,38.63,32.5,15.5,23.75
+Dresses,H&M,L,12,39.5,33.5,15.75,23.75
+Dresses,H&M,L,13,40.25,34.5,15.88,23.75
+Dresses,H&M,L,14,41,35.5,16,23.75
+Dresses,H&M,L,15,42.25,36.63,16.25,23.88
+Dresses,H&M,XL,16,43.5,37.75,16.5,24
+Dresses,H&M,XL,17,44.5,39,16.75,24
+Dresses,H&M,XL,18,45.5,40.25,17,24
+Dresses,H&M,XL,19,46.75,41.38,17.13,24
+Dresses,H&M,2XL,20,48,42.5,17.25,24
+Dresses,H&M,2XL,21,49.25,43.63,17.5,24
+Dresses,H&M,2XL,22,50.5,44.75,17.75,24
+Dresses,H&M,2XL,23,51.63,46.13,17.88,24.13
+Dresses,H&M,3XL*,24,52.75,47.5,18,24.25
+Dresses,H&M,3XL*,25,53.88,69,18.25,24.25
+Dresses,H&M,3XL*,26,55,90.5,18.5,24.25
+Dresses,H&M,3XL*,27,56.25,71.88,18.63,24.38
+Dresses,H&M,4XL*,28,57.5,53.25,18.75,24.5
+Dresses,H&M,4XL*,29,58.63,54.5,18.88,24.5
+Dresses,H&M,4XL*,30,59.75,55.75,19,24.5
