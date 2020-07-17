@@ -1,2 +1,2 @@
 # IntermediateCodes
-Basics Of WorkedCodes from A to Z
+Solution for Machine Learning Projects and their easy ways of implementation
