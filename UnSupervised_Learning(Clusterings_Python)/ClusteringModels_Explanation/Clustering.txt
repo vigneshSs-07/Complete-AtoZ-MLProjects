@@ -1,0 +1,27 @@
+Agglomerative,data points are clustered using a bottom-up approach starting with individual data points.
+
+
+
+In Divisive, top-down approach is followed where all the data points are treated as one big cluster and the clustering process 
+involves dividing the one big cluster into several small clusters.
+
+
+We use 'ward' as the method since it minimizes then variants of distances between the clusters.(Ward method is actually a method that tries to minimize the variance within each cluster)
+
+
+The linkage method takes the dataset and the method to minimize distances as parameters. 
+
+A dendrogram is a type of tree diagram showing hierarchical clustering — relationships between similar sets of data
+
+
+
+
+Difference between K Means and Hierarchical clustering
+
+    1. Hierarchical clustering can’t handle big data well but K Means clustering can. This is because the time complexity of K Means is linear i.e. O(n) 
+       while that of hierarchical clustering is quadratic i.e. O(n2).
+    2. In K Means clustering, since we start with random choice of clusters, the results produced by running the algorithm multiple times might differ.
+       While results are reproducible in Hierarchical clustering.
+    3. K Means is found to work well when the shape of the clusters is hyper spherical (like circle in 2D, sphere in 3D).
+    4. K Means clustering requires prior knowledge of K i.e. no. of clusters you want to divide your data into.
+       But, you can stop at whatever number of clusters you find appropriate in hierarchical clustering by interpreting the dendrogram
